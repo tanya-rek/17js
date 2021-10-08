@@ -1,0 +1,32 @@
+.page_wrapper {
+    padding-top: 40px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    }
+
+.main-button {
+    width: 20vw;
+    height: 12vh;
+    border-radius: 50px;
+    padding: 16px;
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.9em;
+    line-height: 1.9em;
+    color: #FFFFFF;
+    background-color: rgb(27, 14, 148);
+    text-transform: uppercase;
+    }
+
+    .main-result {
+        margin: 20px;
+        padding: 2%;
+        font-family: Arial, sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 1.3em;
+        line-height: 1.9em;
+        color: black;
+    }
